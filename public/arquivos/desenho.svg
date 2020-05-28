@@ -63,9 +63,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="337.93913"
-     inkscape:cy="888.01933"
+     inkscape:zoom="2.8"
+     inkscape:cx="371.73406"
+     inkscape:cy="788.43408"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -82,7 +82,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -118,14 +118,28 @@
        id="rect853"
        width="5.6696429"
        height="4.6774554"
-       x="80.603424"
-       y="70.214287" />
+       x="78.146576"
+       y="70.68676" />
     <rect
-       y="70.214287"
-       x="87.879463"
+       y="70.68676"
+       x="85.422615"
        height="4.6774554"
        width="5.6696429"
        id="rect855"
        style="opacity:1;fill:#58a09f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.56499994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3.67936969;stroke-opacity:1;paint-order:normal" />
+    <rect
+       style="opacity:1;fill:#f8f8f8;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3.67936969;stroke-opacity:1;paint-order:normal"
+       id="rect832"
+       width="5.6696429"
+       height="4.6774554"
+       x="92.556915"
+       y="70.68676" />
+    <rect
+       style="opacity:1;fill:#7c7067;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3.67936969;stroke-opacity:1;paint-order:normal"
+       id="rect845"
+       width="18.898809"
+       height="6.5200891"
+       x="97.706841"
+       y="79.380203" />
   </g>
 </svg>
