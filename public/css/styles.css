@@ -10144,7 +10144,7 @@ header.masthead h1 {
   text-align: center;
   opacity: 0;
   color: #f8f8f8ff;
-  background: rgba(244, 98, 58, 0.9);
+  background: #a0c830ff;
   transition: opacity 0.25s ease;
   text-align: center;
 }
@@ -10158,9 +10158,14 @@ header.masthead h1 {
   font-size: 1.2rem;
 }
 #portfolio .container-fluid .portfolio-box:hover .portfolio-box-caption, #portfolio .container-sm .portfolio-box:hover .portfolio-box-caption, #portfolio .container-md .portfolio-box:hover .portfolio-box-caption, #portfolio .container-lg .portfolio-box:hover .portfolio-box-caption, #portfolio .container-xl .portfolio-box:hover .portfolio-box-caption {
-  opacity: 1;
+  opacity: 0.9;
 }
 
 .text-white-75 {
   color: rgba(255, 255, 255, 0.75);
+}
+
+.footer{
+    background-color: #58a09fff;
+    color: white;
 }
