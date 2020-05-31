@@ -13,6 +13,8 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+Route::resource('empresa', 'EmpresaController');
+
 Route::get('/', function () {
     return view('welcome');
 });
