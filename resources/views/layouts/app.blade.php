@@ -9,7 +9,7 @@
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/img/favicon.png" />
         <!-- Font Awesome icons (free version)-->
-        <script src="https://use.fontawesome.com/releases/v5.13.0/js/all.js" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
         <!-- Google fonts-->
         <link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:400,700" rel="stylesheet" />
         <link href="https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic" rel="stylesheet" type="text/css" />
@@ -34,6 +34,9 @@
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#services">Serviços</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#portfolio">Notícias</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#contact">Contato</a></li>
+                        <li class="nav-item">&nbsp&nbsp&nbsp&nbsp</li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#"><i class="fab fa-instagram"></i></a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#"><i class="fab fa-facebook-square"></i></a></li>
                     </ul>
                 </div>
             </div>

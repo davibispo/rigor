@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt">
 <head>
     <title>Rigor - Soluções Ambientais</title>
     <meta charset="utf-8">
@@ -14,7 +14,6 @@
 </head>
 <body>
     <div class="container">
-
         <nav class="navbar navbar-expand-sm bg-light navbar-light">
             <a class="navbar-brand" href=" {{route('home.index')}} ">
                 <img src="assets/img/logo.png" alt="Logo" style="width:60px;">
@@ -25,16 +24,16 @@
             <div class="collapse navbar-collapse" id="collapsibleNavbar">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link active" href="#">A Empresa</a>
+                        <a class="nav-link" href=" {{route('empresa.index')}} ">A Empresa</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Serviços</a>
+                        <a class="nav-link" href="{{route('servicos.index')}}">Serviços</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Notícias</a>
+                        <a class="nav-link" href="{{route('noticias.index')}}">Notícias</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Contato</a>
+                        <a class="nav-link" href="{{route('contato.index')}}">Contato</a>
                     </li>
                 </ul>
             </div>

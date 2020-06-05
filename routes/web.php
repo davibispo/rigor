@@ -13,6 +13,9 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+Route::resource('contato', 'ContatoController');
+Route::resource('noticias', 'NoticiasController');
+Route::resource('servicos', 'ServicosController');
 Route::resource('empresa', 'EmpresaController');
 Route::resource('home', 'HomeController');
 
