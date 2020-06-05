@@ -109,7 +109,6 @@
         <div id="portfolio">
             <div class="container-fluid p-0">
                 <div class="row no-gutters">
-                    <div class="container text-center"><h3 style="color:#58a09fff">Notícias</h3></div>
                     <div class="col-lg-4 col-sm-6">
                         <a class="portfolio-box" href="assets/img/portfolio/fullsize/1.jpg">
                             <img class="img-fluid" src="assets/img/portfolio/thumbnails/1.jpg" alt="" />
@@ -167,13 +166,13 @@
                 </div>
             </div>
         </div>
-        <!-- Call to action-->
+        <!-- Call to action
         <section class="page-section bg-dark text-white">
             <div class="container text-center">
                 <h2 class="mb-4">Free Download at Start Bootstrap!</h2>
                 <a class="btn btn-light btn-xl" href="https://startbootstrap.com/themes/creative/">Download Now!</a>
             </div>
-        </section>
+        </section>-->
         <!-- Contact-->
         <section class="page-section" id="contact">
             <div class="container">
