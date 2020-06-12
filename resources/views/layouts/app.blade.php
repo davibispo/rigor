@@ -48,23 +48,27 @@
         </main>
 
         <!-- Footer-->
-        <footer class="footer py-5">
+        <footer class="footer py-4">
             <div class="container">
                 <div class="small text-center text-white">
                     <div class="row">
                         <div class="col-sm-3">
-                            MAPA DO SITE <br>
-                            MAPA DO SITE <br>
-                            MAPA DO SITE <br>
-                            MAPA DO SITE <br>
-                            MAPA DO SITE <br>
-                            MAPA DO SITE <br>
+                            <h6>A EMPRESA</h6>
                         </div>
-                        <div class="col-sm-3">.col-sm-3</div>
-                        <div class="col-sm-3">.col-sm-3</div>
-                        <div class="col-sm-3">.col-sm-3</div>
+                        <div class="col-sm-3">
+                            <h6>SERVIÇOS</h6>
+                        </div>
+                        <div class="col-sm-3">
+                            <h6>NOTÍCIAS</h6>
+                        </div>
+                        <div class="col-sm-3">
+                            <h6>CONTATO</h6>
+                        </div>
                     </div>
-                    Copyright © 2020 - Start Bootstrap
+                    <div class="container">
+                        <br>
+                        Copyright © 2020 - Rigor Soluções Ambientais
+                    </div>
                 </div>
             </div>
         </footer>
