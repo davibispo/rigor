@@ -183,31 +183,24 @@
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-8 text-center">
-                        <h2 class="mt-0">Entre em Contato!</h2>
+                        <h2 class="mt-0" style="color:#58a09fff;">Entre em Contato!</h2>
                         <hr class="divider my-4" />
                         <p class="text-muted mb-5">Pronto para iniciar seu próximo projeto conosco!</p>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-3 ml-auto text-center mb-5 mb-lg-0">
-                        <i class="fas fa-phone fa-3x mb-3 text-muted"></i>
-                        <div>
-                            (82) 98154-0163 <i class="fab fa-whatsapp"></i>
-                            <br>
-                            (82) 98192-2142 <i class="fas fa-mobile-alt"></i>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 ml-auto text-center mb-5 mb-lg-0">
-                        <i class="fab fa-instagram fa-3x mb-3 text-muted"></i>
-                        <div>@rigorsoluçõesambientais</div>
-                    </div>
-                    <div class="col-lg-3 ml-auto text-center mb-5 mb-lg-0">
-                        <i class="fab fa-facebook fa-3x mb-3 text-muted"></i>
-                        <div>Rigor Soluções Ambientais</div>
-                    </div>
-                    <div class="col-lg-3 mr-auto text-center">
-                        <i class="fas fa-envelope fa-3x mb-3 text-muted"></i>
-                        <a class="d-block" href="mailto:comercial@rigorsolucoesambientais.com.br">comercial@rigorsolucoesambientais.com.br</a>
+                    <div class="col-lg-12 ml-auto text-left ">
+                        <h5>(82) 98154-0163 <i class="fab fa-whatsapp text-success"></i></h5>
+
+                        <i class="fas fa-mobile-alt"></i> (82) 98192-2142
+                        <br>
+                        <i class="fas fa-envelope"></i> <a href="mailto:comercial@rigorsolucoesambientais.com.br">comercial@rigorsolucoesambientais.com.br</a>
+                        <br>
+                        <i class="fas fa-map-marker-alt"></i> José Lopes de Araújo, 33A, Centro - Satuba, Alagoas. CEP: 57120-000
+                        <hr>
+                        <i class="fab fa-instagram"></i> @rigorsoluçõesambientais
+                        <br>
+                        <i class="fab fa-facebook"></i> Rigor Soluções Ambientais
                     </div>
                 </div>
             </div>
