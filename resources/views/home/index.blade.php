@@ -10,28 +10,24 @@
                             <li data-target="#demo" data-slide-to="0" class="active"></li>
                             <li data-target="#demo" data-slide-to="1"></li>
                             <li data-target="#demo" data-slide-to="2"></li>
+                            <li data-target="#demo" data-slide-to="3"></li>
                         </ul>
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <img src="assets/img/portfolio/fullsize/1.jpg" alt="Los Angeles" width="1200" height="550">
-                                <div class="carousel-caption">
-                                    <h3>Los Angeles</h3>
-                                    <p>We had such a great time in LA!</p>
-                                </div>
+                                <img src="assets/img/portfolio/fullsize/1.png" alt="Los Angeles" width="1200" height="550">
+
                             </div>
                             <div class="carousel-item">
-                                <img src="assets/img/portfolio/fullsize/2.jpg" alt="Chicago" width="1200" height="550">
-                                <div class="carousel-caption">
-                                    <h3>Chicago</h3>
-                                    <p>Thank you, Chicago!</p>
-                                </div>
+                                <img src="assets/img/portfolio/fullsize/2.png" alt="Chicago" width="1200" height="550">
+
                             </div>
                             <div class="carousel-item">
-                                <img src="assets/img/portfolio/fullsize/3.jpg" alt="New York" width="1200" height="550">
-                                <div class="carousel-caption">
-                                    <h3>New York</h3>
-                                    <p>We love the Big Apple!</p>
-                                </div>
+                                <img src="assets/img/portfolio/fullsize/3.png" alt="New York" width="1200" height="550">
+
+                            </div>
+                            <div class="carousel-item">
+                                <img src="assets/img/portfolio/fullsize/4.png" alt="New York" width="1200" height="550">
+
                             </div>
                         </div>
                         <a class="carousel-control-prev" href="#demo" data-slide="prev">
@@ -46,14 +42,14 @@
             </div>
         </header>
         <!-- About-->
-        <section class="page-section about" id="about">
+        <section class="page-section about" id="about"  style="background-image:url('assets/img/fundo_verde.png')">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-8 text-center">
-                        <h2 class="text-white mt-0">Nós temos o que você precisa!</h2>
+                        <h2 class="mt-0">Nós temos o que você precisa!</h2>
                         <hr class="divider light my-4" />
-                        <p class="text-white-50 mb-4">
-                            RIGOR SOLUÇÕES AMBIENTAIS é uma empresa de consultoria, serviços, execução de projetos e treinamentos em temáticas ambientais e de sustentabilidade.
+                        <p class="text-50 mb-4">
+                            <b>RIGOR SOLUÇÕES AMBIENTAIS é uma empresa de consultoria, serviços, execução de projetos e treinamentos em temáticas ambientais e de sustentabilidade.</b>
                         </p>
                         <a class="btn btn-light btn-xl js-scroll-trigger" href=" {{route('empresa.index')}} ">CONHEÇA MAIS!</a>
                     </div>
@@ -179,7 +175,7 @@
             </div>
         </section>-->
         <!-- Contact-->
-        <section class="page-section" id="contact">
+        <section class="page-section" id="contact" style="background-image: url('assets/img/map.png');">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-8 text-center">

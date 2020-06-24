@@ -56,13 +56,13 @@
                             <h6>A EMPRESA</h6>
                         </div>
                         <div class="col-sm-3">
-                            <h6>SERVIÇOS</h6>
+                            <h6>LINKS INTERESSANTES</h6>
                         </div>
                         <div class="col-sm-3">
-                            <h6>NOTÍCIAS</h6>
+                            <h6>MAPA DO SITE</h6>
                         </div>
                         <div class="col-sm-3">
-                            <h6>CONTATO</h6>
+                            <h6>ENDEREÇO</h6>
                         </div>
                     </div>
                     <div class="container">

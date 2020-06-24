@@ -41,6 +41,8 @@
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
+
+
 *,
 *::before,
 *::after {
@@ -10177,4 +10179,5 @@ header.masthead h1 {
 .navbar2{
     background-color: #a0c830ff;
 }
+
 
