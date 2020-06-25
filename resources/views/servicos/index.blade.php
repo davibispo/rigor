@@ -1,7 +1,7 @@
-@extends('layouts.subapp')
+@extends('layouts.app')
 
 @section('content')
-<div class="container" style="margin-top:30px">
+<div class="container" style="margin-top: 100px">
 
     <div class="col-sm-12">
         <h4>SERVIÇOS</h4>
@@ -68,5 +68,7 @@
             </p>
         </div>
     </div>
+
+</div>
 
 @endsection
