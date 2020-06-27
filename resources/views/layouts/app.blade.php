@@ -81,5 +81,30 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
         <!-- Core theme JS-->
         <script src="js/scripts.js"></script>
+
+
+        <!-- MAPA -->
+        <script>
+            function inicializar() {
+                var coordenadas = {lat: -9.570679, lng: -35.826096};
+
+                var mapa = new google.maps.Map(document.getElementById('mapa'), {
+                zoom: 15,
+                center: coordenadas
+                });
+
+                var marker = new google.maps.Marker({
+                position: coordenadas,
+                map: mapa,
+                title: 'Meu marcador'
+                });
+            }
+        </script>
+        <script async defer
+            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAwEWoqyKWtErQsCbz6_D6fVRU9n72--9U&callback=inicializar" type="text/javascript">
+        </script>
+        <!-- FIM MAPA -->
+
+
     </body>
 </html>

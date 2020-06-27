@@ -167,6 +167,7 @@
                 </div>
             </div>
         </div>
+        <br><br>
         <!-- Call to action
         <section class="page-section bg-dark text-white">
             <div class="container text-center">
@@ -175,6 +176,7 @@
             </div>
         </section>-->
         <!-- Contact-->
+        <!--
         <section class="page-section" id="contact" style="background-image: url('assets/img/map.png');">
             <div class="container">
                 <div class="row justify-content-center">
@@ -201,5 +203,5 @@
                 </div>
             </div>
         </section>
-
+        -->
 @endsection

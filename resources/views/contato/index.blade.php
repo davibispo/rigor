@@ -12,7 +12,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-12 ml-auto text-left ">
+                <div class="col-lg-4 ml-auto text-left ">
                     <h5>(82) 98154-0163 <i class="fab fa-whatsapp text-success"></i></h5>
 
                     <i class="fas fa-mobile-alt"></i> (82) 98192-2142
@@ -24,6 +24,10 @@
                     <i class="fab fa-instagram"></i> @rigorsoluçõesambientais
                     <br>
                     <i class="fab fa-facebook"></i> Rigor Soluções Ambientais
+                </div>
+                <div class="col-lg-8 ml-auto text-left ">
+                    <div id="mapa"></div>
+
                 </div>
             </div>
         </div>
