@@ -41,6 +41,19 @@
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
+#services {
+    background-color: #e7f6b9ff;
+    margin-top: 0px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+#link-rodape {
+    text-decoration: none;
+    text-transform: none;
+    color:white;
+}
+
 #mapa {
     height:400px;
     width:100%;

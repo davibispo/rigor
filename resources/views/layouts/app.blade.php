@@ -31,7 +31,7 @@
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ml-auto my-2 my-lg-0">
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="{{route('home.index')}}">Home</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="{{route('empresa.index')}}">A Empresa</a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="{{route('empresa.index')}}">A empresa</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="{{route('servicos.index')}}">Serviços</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="{{route('noticias.index')}}">Notícias</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="{{route('contato.index')}}">Contato</a></li>
@@ -53,22 +53,34 @@
             <div class="container">
                 <div class="small text-center text-white">
                     <div class="row">
-                        <div class="col-sm-3">
-                            <h6>A EMPRESA</h6>
+                        <div class="col-sm-4">
+                            <h5>A EMPRESA</h5>
+                            <p class="text-left">
+                                Nosso diferencial é possuir uma equipe multidisciplinar qualificada para conectar pessoas e empresas a valores sustentáveis, com foco na gestão ambiental, que tem como objetivo à execução de treinamento na área de sustentabilidade ambiental e gestão de pessoas, bem como estimular pessoas a refletir sobre consumo consciente, tratamento de resíduos sólidos, responsabilidade e sustentabilidade.
+                            </p>
                         </div>
-                        <div class="col-sm-3">
-                            <h6>LINKS INTERESSANTES</h6>
+                        <div class="col-sm-4">
+                            <h5>MAPA DO SITE</h5>
+                            <ul class="text-left">
+                                <li><a href=" {{route('home.index')}} " id="link-rodape">Home</a></li>
+                                <li><a href=" {{route('empresa.index')}} " id="link-rodape">A empresa</a></li>
+                                <li><a href=" {{route('servicos.index')}} " id="link-rodape">Serviços</a></li>
+                                <li><a href=" {{route('noticias.index')}} " id="link-rodape">Notícias</a></li>
+                                <li><a href=" {{route('contato.index')}} " id="link-rodape">Contato</a></li>
+                            </ul>
                         </div>
-                        <div class="col-sm-3">
-                            <h6>MAPA DO SITE</h6>
-                        </div>
-                        <div class="col-sm-3">
-                            <h6>ENDEREÇO</h6>
+                        <div class="col-sm-4 text-left">
+                            <h5>ENDEREÇO</h5>
+                            <i class="fas fa-map-marker-alt"></i> José Lopes de Araújo, 33A, Centro - Satuba, Alagoas. CEP: 57120-000
+                            <br>
+                            <i class="fas fa-envelope"></i> comercial@rigorsolucoesambientais.com.br
+                            <br>
+                            <i class="fas fa-mobile-alt"></i> (82) 98192-2142
                         </div>
                     </div>
                     <div class="container">
                         <br>
-                        Copyright © 2020 - Rigor Soluções Ambientais
+                        Copyright © 2020 - Rigor Soluções Ambientais | Todos os direitos reservados | by Davi Bispo (82) 99969-3407
                     </div>
                 </div>
             </div>

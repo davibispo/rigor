@@ -102,7 +102,7 @@
             </div>
         </section>
         <!-- Notícias -->
-        <div id="portfolio">
+        <div id="portfolio" style="background-image:url('assets/img/fundo-arvores.jpg')">
             <div class="container-fluid p-0">
                 <div class="row no-gutters">
                     <!--
@@ -166,8 +166,8 @@
                     </div>
                 </div>
             </div>
+            <br><br>
         </div>
-        <br><br>
         <!-- Call to action
         <section class="page-section bg-dark text-white">
             <div class="container text-center">
